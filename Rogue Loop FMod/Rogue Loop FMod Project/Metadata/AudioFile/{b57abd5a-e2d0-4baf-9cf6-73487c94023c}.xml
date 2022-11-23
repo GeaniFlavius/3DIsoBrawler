@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b57abd5a-e2d0-4baf-9cf6-73487c94023c}">
+		<property name="assetPath">
+			<value>high hit 6.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.0114285714285716</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{40291ac0-981f-47ae-a7ec-e380c2815b56}</destination>
+		</relationship>
+	</object>
+</objects>

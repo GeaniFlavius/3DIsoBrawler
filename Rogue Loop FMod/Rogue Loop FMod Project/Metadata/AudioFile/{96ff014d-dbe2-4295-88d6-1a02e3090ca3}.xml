@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{96ff014d-dbe2-4295-88d6-1a02e3090ca3}">
+		<property name="assetPath">
+			<value>big hit 3.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{40291ac0-981f-47ae-a7ec-e380c2815b56}</destination>
+		</relationship>
+	</object>
+</objects>

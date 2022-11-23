@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8742365118705139707
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 895390144120736581, guid: 788f304380852064dad15443a2d98f00, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 895390144120736581, guid: 788f304380852064dad15443a2d98f00, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.12048
+      objectReference: {fileID: 0}
+    - target: {fileID: 895390144120736581, guid: 788f304380852064dad15443a2d98f00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.2285016
+      objectReference: {fileID: 0}
+    - target: {fileID: 895390144120736581, guid: 788f304380852064dad15443a2d98f00, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.9989843
+      objectReference: {fileID: 0}
+    - target: {fileID: 895390144120736581, guid: 788f304380852064dad15443a2d98f00, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.42057598
+      objectReference: {fileID: 0}
+    - target: {fileID: 895390144120736581, guid: 788f304380852064dad15443a2d98f00, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.3318026
+      objectReference: {fileID: 0}
+    - target: {fileID: 895390144120736581, guid: 788f304380852064dad15443a2d98f00, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46335036
+      objectReference: {fileID: 0}
+    - target: {fileID: 895390144120736581, guid: 788f304380852064dad15443a2d98f00, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.7059245
+      objectReference: {fileID: 0}
+    - target: {fileID: 895390144120736581, guid: 788f304380852064dad15443a2d98f00, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -159.325
+      objectReference: {fileID: 0}
+    - target: {fileID: 895390144120736581, guid: 788f304380852064dad15443a2d98f00, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 275.847
+      objectReference: {fileID: 0}
+    - target: {fileID: 895390144120736581, guid: 788f304380852064dad15443a2d98f00, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -108.65799
+      objectReference: {fileID: 0}
+    - target: {fileID: 5225138153819497966, guid: 788f304380852064dad15443a2d98f00, type: 3}
+      propertyPath: m_Name
+      value: Two Hand Sword Animation Left Hand [Weapon Position] (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5225138153819497966, guid: 788f304380852064dad15443a2d98f00, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 788f304380852064dad15443a2d98f00, type: 3}

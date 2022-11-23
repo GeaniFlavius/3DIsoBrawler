@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{2c0f1082-c790-46ab-8c3b-9cc56b74e23d}">
+		<property name="name">
+			<value>OST Intensity</value>
+		</property>
+		<relationship name="folder">
+			<destination>{f503d7f0-eb8d-491b-b5a5-9a93466ebf96}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{fe90d401-0eb2-4e90-8acc-0b128a8c3865}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{fe90d401-0eb2-4e90-8acc-0b128a8c3865}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

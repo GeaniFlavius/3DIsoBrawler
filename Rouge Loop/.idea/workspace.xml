@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea23851c-f902-4567-8d35-aa56edd94a84" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/AttackCombo3.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/AttackCombo3.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/HiltAttack.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/HiltAttack.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/Idle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/Idle.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/IdleHandOnHip.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/IdleHandOnHip.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/IdleLookAround.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/IdleLookAround.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/PowerUp.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/PowerUp.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/Run.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/Run.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/WalkForward.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/WalkForward.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword attack.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword attack.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword blocking (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword blocking (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword blocking (3).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword blocking (3).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword blocking.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword blocking.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword high spin attack.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword high spin attack.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword idle (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword idle (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword idle (3).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword idle (3).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword idle (4).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword idle (4).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword idle (5).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword idle (5).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword idle.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword idle.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword impact (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword impact (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword impact (3).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword impact (3).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword kick (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword kick (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword kick.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword kick.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword power up.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword power up.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword run (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword run (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword run.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword run.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword slash (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword slash (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword slash (3).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword slash (3).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword slash (4).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword slash (4).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword slash.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword slash.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword slide attack.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword slide attack.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword turn (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword turn (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword turn.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword turn.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword walk (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword walk (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword walk.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/great sword walk.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/two handed sword death (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/two handed sword death (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/two handed sword death.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian Animation Clips/two handed sword death.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian_Animation_Controller.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character/Barbarian/Barbarian_Animation_Controller.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Barbarian/SM_Wep_BarbarianGiant_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character/Barbarian/SM_Wep_BarbarianGiant_01.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputSystem.inputsettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/InputSystem.inputsettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Red.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New Physic Material.physicMaterial" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/New Physic Material.physicMaterial" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/FlaviusPrototypeScene(DoNotModify).unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/FlaviusPrototypeScene(DoNotModify).unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Animate.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Animate.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CreateRandom.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CreateRandom.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Dialogue.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Dialogue.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DialogueManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DialogueManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DialogueTrigger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DialogueTrigger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Health.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Health.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HelpVariables.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HelpVariables.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/IdleBlend.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/IdleBlend.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/ButtonExample.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/ButtonExample.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/Dash.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/Dash.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/Input Actions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/Input Actions/UserInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/Input Actions/UserInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/Input Actions/UserInput.inputactions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/Input Actions/UserInput.inputactions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/LookAtMouse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/LookAtMouse.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/LookAtStick.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/LookAtStick.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/TransformPosition.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/TransformPosition.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/TestMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/TestMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29p40iVPkW6wGfmqhfFvEufJr6R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea23851c-f902-4567-8d35-aa56edd94a84" name="Changes" comment="" />
+      <created>1653796474180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653796474180</updated>
+      <workItem from="1653796476068" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
